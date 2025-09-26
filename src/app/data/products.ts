@@ -210,7 +210,7 @@ export const products = [
 
     {
       id: 1031,
-      image: "checkout-frontend/public/plain-hooded-fleece-sweatshirt-yellow.jpg",
+      image: "/plain-hooded-fleece-sweatshirt-yellow.jpg",
       name: "plain-hooded-fleece-sweatshirt-yellow",
       priceCents: 9879
     },
@@ -224,7 +224,7 @@ export const products = [
 
     {
       id: 1033,
-      image: "round-sunglasses-black.jpg",
+      image: "/round-sunglasses-black.jpg",
       name: "Round-sunglasses-black",
       priceCents: 6500
     },
@@ -318,6 +318,7 @@ export const products = [
 
 
   
+
 
 
 ]
